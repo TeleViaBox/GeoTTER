@@ -1,0 +1,104 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Conda
+.conda/
+conda-meta/
+
+# Build / distribution
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project outputs
+GeoTTER_results/
+results/
+outputs/
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Environment / local config
+.env
+.env.*
+*.local
+
+# Generated figures / artifacts
+*.png
+*.pdf
+*.svg
+
+# Model / data artifacts
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+
+# Large datasets
+data/
+datasets/
+
+# Misc
+.python-version
