@@ -147,5 +147,6 @@ pip install -r requirements.txt
 python run_geotter.py
 ```
 
+## Additional Mathematical Proofs
 
 <img width="877" height="754" alt="image" src="https://github.com/user-attachments/assets/7b69911e-baae-4f43-b549-c87dd985a0b7" />
